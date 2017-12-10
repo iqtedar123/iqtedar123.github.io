@@ -1,4 +1,4 @@
-[button url="http://www.google.com"]
+[button](https://www.google.com)
 ## Hello World!
 
 Witness some of the many many projects and ideas I have worked on! Enjoy!
