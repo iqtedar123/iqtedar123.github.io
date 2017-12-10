@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Hello World!
 
-You can use the [editor on GitHub](https://github.com/iqtedar123/iqtedar123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Witness some of the many many projects and ideas I have worked on! Enjoy!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ace It!
 
-### Markdown
+Want to ace that course? Want to know how bad you're failing in school?
+This app is your one stop place to find out!
+Features:
+- Calculate your GPA(4 Point system only)
+- Calculate your current mark in a course
+- Beautiful UI! Like really beautiful!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Built using Javascript/Cordova/Ionic Libraries with Xamarin. Ready for Android, iOS and Windows Phone. 
 
-```markdown
-Syntax highlighted code block
+Play Store: 
+https://play.google.com/store/apps/details?id=com.techseven.uoftgpanew
 
-# Header 1
-## Header 2
-### Header 3
+Repository: 
+https://github.com/iqtedar123/Ace-It-
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iqtedar123/iqtedar123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](src)
