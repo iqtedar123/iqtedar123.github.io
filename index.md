@@ -20,4 +20,4 @@ Repository:
 https://github.com/iqtedar123/Ace-It-
 
 
-![Image](/1.img)
+![Image](/1.jpg)
