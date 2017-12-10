@@ -19,5 +19,9 @@ https://play.google.com/store/apps/details?id=com.techseven.uoftgpanew
 Repository: 
 https://github.com/iqtedar123/Ace-It-
 
-
-![Image](/1.jpg)
+Screenshots:
+![](/Ace_It_Screens/1.jpg)
+![](/Ace_It_Screens/2.jpg)
+![](/Ace_It_Screens/3.png)
+![](/Ace_It_Screens/4.png)
+![](/Ace_It_Screens/5.png)
