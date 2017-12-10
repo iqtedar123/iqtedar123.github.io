@@ -2,26 +2,6 @@
 
 Witness some of the many many projects and ideas I have worked on! Enjoy!
 
-### Ace It!
+### ![Ace It!](/ace_it)
 
-Want to ace that course? Want to know how bad you're failing in school?
-This app is your one stop place to find out!
-Features:
-- Calculate your GPA(4 Point system only)
-- Calculate your current mark in a course
-- Beautiful UI! Like really beautiful!
-
-Built using Javascript/Cordova/Ionic Libraries with Xamarin. Ready for Android, iOS and Windows Phone. 
-
-Play Store: 
-https://play.google.com/store/apps/details?id=com.techseven.uoftgpanew
-
-Repository: 
-https://github.com/iqtedar123/Ace-It-
-
-Screenshots:
-![](/Ace_It_Screens/1.jpg)
-![](/Ace_It_Screens/2.jpg)
-![](/Ace_It_Screens/3.png)
-![](/Ace_It_Screens/4.png)
-![](/Ace_It_Screens/5.png)
+A GPA/Grade calculator with iOS, Android and Windows Phone support.
