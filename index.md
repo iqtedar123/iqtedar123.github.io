@@ -2,21 +2,6 @@
 
 Witness some of the many many projects and ideas I have worked on! Enjoy!
 
-## About Me
-
-My name is Mohammad Chowdhry! ![](/Miscellaneous_Screens/profile_picture.png)
-
-I'm a Computer Science student at the University Of Toronto (UofT). 
-
-I like to code, test my limits and discover new coding techniques. 
-
-Android Fanboy. 
-
-Star Wars is Life. 
-
-![](/Miscellaneous_Screens/yoda.png)
-
-
 ## Previous Projects
 
 ### [Ace It!](ace_it.md)
@@ -36,3 +21,20 @@ A 2D Racing game for Android and PC's.
 ### [Colors v2.0](https://github.com/iqtedar123/Colors-2.0)
 
 A work in progress. An update to a previous [project](https://github.com/iqtedar123/Whats-the-color).
+
+## About Me
+[LinkedIn](https://www.linkedin.com/in/mohammad-chowdhry-74baba10a/)
+
+My name is Mohammad Chowdhry! ![](/Miscellaneous_Screens/profile_picture.png)
+
+I'm a Computer Science student at the University Of Toronto (UofT). 
+
+I like to code, test my limits and discover new coding techniques. 
+
+Android Fanboy. 
+
+Star Wars is Life. 
+
+![](/Miscellaneous_Screens/yoda.png)
+
+
