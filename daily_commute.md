@@ -46,7 +46,7 @@ The user wins by making it to the go station on time and by passing level 2.
 
 The purpose of this game is to give others a glimpse of the 'fun' commute I had going to work every day for 16 months.
 
-**Repository:** 
+## **Repository:** 
 [Github](https://github.com/iqtedar123/Daily-Commute)
 
 ## **Play Store:**

@@ -4,7 +4,7 @@ Witness some of the many many projects and ideas I have worked on! Enjoy!
 
 ## About Me
 
-My name is Mohammad Chowdhry! 
+My name is Mohammad Chowdhry! ![](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/1496061_10202850770969724_273954548_o.jpg?oh=d9bf99efcbc1a945cacd4089fec2e57e&oe=5ABE596F)
 
 I'm a Computer Science student at the University Of Toronto(UofT). 
 
