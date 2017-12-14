@@ -2,6 +2,19 @@
 
 Witness some of the many many projects and ideas I have worked on! Enjoy!
 
+## About Me
+
+My name is Mohammad Chowdhry! 
+
+I'm a Computer Science student at the University Of Toronto(UofT). 
+
+I like to code, test my limits and discover new coding techniques. 
+
+Android Fanboy. 
+
+Star Wars is Life. 
+
+
 ## Previous Projects
 
 ### [Ace It!](ace_it.md)
