@@ -16,7 +16,7 @@ A 2D top-down game for CSC490. Built Using Unity.
 
 A 2D Racing game for Android and PC's.
 
-## Current Projects:
+## Current Projects
 
 ### [Colors v2.0] (https://github.com/iqtedar123/Colors-2.0)
 
