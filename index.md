@@ -18,6 +18,6 @@ A 2D Racing game for Android and PC's.
 
 ## Current Projects
 
-### [Colors v2.0] (https://github.com/iqtedar123/Colors-2.0)
+### [Colors v2.0](https://github.com/iqtedar123/Colors-2.0)
 
 A work in progress. An update to a previous [project](https://github.com/iqtedar123/Whats-the-color).
