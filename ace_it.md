@@ -11,10 +11,10 @@ This app is your one stop place to find out!
 Built using Javascript/Cordova/Ionic Framework with Xamarin. Ready for Android, iOS and Windows Phone. 
 
 ## **Play Store:**
-https://play.google.com/store/apps/details?id=com.techseven.uoftgpanew
+[Download](https://play.google.com/store/apps/details?id=com.techseven.uoftgpanew)
 
 ## **Repository:** 
-https://github.com/iqtedar123/Ace-It-
+[Repository](https://github.com/iqtedar123/Ace-It-)
 
 ## **Screenshots:**
 
