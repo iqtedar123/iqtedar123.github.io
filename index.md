@@ -27,7 +27,7 @@ A work in progress. An update to a previous [project](https://github.com/iqtedar
 
 My name is Mohammad Chowdhry! ![](/Miscellaneous_Screens/profile_picture.png)
 
-I'm a Computer Science student at the University Of Toronto (UofT). 
+I'm a software developer at Innocare Ltd. 
 
 I like to code, test my limits and discover new coding techniques. 
 
